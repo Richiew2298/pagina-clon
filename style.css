@@ -57,7 +57,7 @@ a {
 }
 
 .div2:hover {
-    background-color: #242628;
+    background-color: #053951;
 }
 
 .div3,
@@ -69,7 +69,7 @@ a {
 
 .div3:hover,
 .div4:hover {
-    background-color: #242628;
+    background-color: #053951;
 }
 
 .div5 {
@@ -1327,7 +1327,7 @@ a {
 
 footer{
     margin-top: 150px;
-    background-color: #053463;
+    background-color: #065a80;
     height: 15vh;
     border-radius: 150px 150px 0px 0px;
 }
@@ -1338,5 +1338,5 @@ footer{
     align-items: center;
     font-size: 25px;
     padding-top: 25px;
-    color:#5e0505;
+    color:#ffffff;
 }
